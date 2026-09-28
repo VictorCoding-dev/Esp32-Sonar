@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Esp32c3 Project 01",
+			"path": "../../Esp32c3 Project 01"
+		},
+		{
+			"name": "esp32 C3 Seed",
+			"path": "../../esp32 C3 Seed"
+		},
+		{
+			"name": "Esp32c3 Emissor Project",
+			"path": "../../Esp32c3 Emissor Project"
+		},
+		{
+			"name": "test",
+			"path": "../../test"
+		},
+		{
+			"name": "ESP32SUPERMINI",
+			"path": "../../ESP32SUPERMINI"
+		}
+	],
+	"settings": {}
+}
